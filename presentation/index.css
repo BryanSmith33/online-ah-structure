@@ -1,0 +1,23 @@
+
+.outline {
+  display: flex;
+  margin-top: 1em;
+  color: #eee;
+}
+
+.outline p {
+  color: #eee !important;
+}
+
+.holder {
+  margin: 0.25rem auto;
+}
+
+.arrow {
+  display: flex;
+  align-items: center;
+}
+
+.css-k3b2xw {
+  font-size: 3.5rem !important;
+}
